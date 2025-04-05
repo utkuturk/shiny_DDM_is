@@ -1,3 +1,8 @@
+# TODO 
+
+- [] implement visualization of random walks
+- [] implement multiple distributions at the same boundary, i.e. comparing different drift rates for the same decision
+
 # An interactive visualisation of the Wiener drift diffusion model (in progress)
 
 ## Description
